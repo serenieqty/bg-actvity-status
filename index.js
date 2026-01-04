@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["☄️ discord.gg/nuvelle", "Avail our goodies / comms / pilot 🩵"];
-const statusTypes = [ 'idle', 'idle'];
+const statusTypes = [ 'idle', 'online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
